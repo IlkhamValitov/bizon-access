@@ -8,4 +8,11 @@ body #main_block {
   flex-direction: column;
   background-color: whitesmoke;
 }
+html #main_block .access_block h2,
+body #main_block .access_block h2 {
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  margin: 0;
+  padding: 14px;
+}
 /*# sourceMappingURL=styles.css.map */
