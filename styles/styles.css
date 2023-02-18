@@ -19,4 +19,8 @@ html #main_block .access_block .form,
 body #main_block .access_block .form {
   margin: 10px;
 }
+html #main_block .access_block .form input,
+body #main_block .access_block .form input {
+  margin: 10px;
+}
 /*# sourceMappingURL=styles.css.map */
