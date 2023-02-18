@@ -15,10 +15,10 @@ body #main_block .access_block {
 }
 html #main_block .access_block .form_block,
 body #main_block .access_block .form_block {
-  width: 40%;
+  width: 70%;
 }
-html #main_block .access_block .form_block h2,
-body #main_block .access_block .form_block h2 {
+html #main_block .access_block .form_block h3,
+body #main_block .access_block .form_block h3 {
   background-color: cornflowerblue;
   color: whitesmoke;
   margin: 0;
@@ -28,8 +28,8 @@ html #main_block .access_block .form_block .form,
 body #main_block .access_block .form_block .form {
   margin: 10px;
 }
-html #main_block .access_block .form_block .form input,
-body #main_block .access_block .form_block .form input {
-  margin: 10px;
+html #main_block .access_block .video_block,
+body #main_block .access_block .video_block {
+  width: 30%;
 }
 /*# sourceMappingURL=styles.css.map */
