@@ -12,6 +12,7 @@ html #main_block .access_block,
 body #main_block .access_block {
   display: flex;
   flex-direction: row;
+  height: 300px;
 }
 html #main_block .access_block .form_block,
 body #main_block .access_block .form_block {
@@ -31,5 +32,12 @@ body #main_block .access_block .form_block .form {
 html #main_block .access_block .video_block,
 body #main_block .access_block .video_block {
   width: 30%;
+}
+html #main_block .hint_block,
+body #main_block .hint_block {
+  background-color: orange;
+  margin: auto;
+  padding: 14px;
+  border-radius: 10px;
 }
 /*# sourceMappingURL=styles.css.map */
