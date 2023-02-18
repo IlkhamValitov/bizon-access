@@ -15,4 +15,8 @@ body #main_block .access_block h2 {
   margin: 0;
   padding: 14px;
 }
+html #main_block .access_block .form,
+body #main_block .access_block .form {
+  margin: 10px;
+}
 /*# sourceMappingURL=styles.css.map */
