@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+}
+html #main_block,
+body #main_block {
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+}
+/*# sourceMappingURL=styles.css.map */
